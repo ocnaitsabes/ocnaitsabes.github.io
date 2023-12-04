@@ -47,7 +47,7 @@
   -moz-text-fill-color: transparent; }
 
 .yellow-suffix {
-  color: #b58b00;
+  color: #b58b00 !important;
 }
 
 
