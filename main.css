@@ -37,7 +37,7 @@
 
 .yellow {
   color: #e5c727;
-  background: #02A9C1;
+  background: #e5c727;
   background: linear-gradient(45deg, #e5c727, #b58b00);
   background-size: 100%;
   background-repeat: repeat;
@@ -46,6 +46,19 @@
   -webkit-box-decoration-break: clone;
   -moz-background-clip: text;
   -moz-text-fill-color: transparent; }
+
+.yellow-suffix {
+  color: #e5c727;
+  background: #e5c727;
+  background: linear-gradient(45deg, #e5c727, #b58b00);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent; }
+
 
 /* Global styles */
 html {
