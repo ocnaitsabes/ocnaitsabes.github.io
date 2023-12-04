@@ -38,7 +38,7 @@
 .yellow {
   color: #e5c727;
   background: #e5c727;
-  background: linear-gradient(45deg, #e5c727, #2a7ae2);
+  background: linear-gradient(90deg, #e5c727, #2a7ae2);
   background-size: 100%;
   background-repeat: repeat;
   -webkit-background-clip: text;
