@@ -38,6 +38,7 @@
 .yellow {
   color: #e5c727;
   background: #e5c727;
+  background: linear-gradient(45deg, #e5c727, #2a7ae2);
   background-size: 100%;
   background-repeat: repeat;
   -webkit-background-clip: text;
@@ -46,9 +47,7 @@
   -moz-background-clip: text;
   -moz-text-fill-color: transparent; }
 
-.yellow-suffix {
-  color: #b58b00 !important;
-}
+
 
 
 /* Global styles */
